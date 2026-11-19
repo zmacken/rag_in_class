@@ -1,0 +1,8 @@
+/.venv
+/pycache
+/*.pyc
+.git
+.gitignore
+.env
+.logfire
+/.pytest_cache
