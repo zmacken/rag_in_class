@@ -1,8 +1,11 @@
 /.venv
 /pycache
-/*.pyc
+**/*.pyc
 .git
 .gitignore
 .env
 .logfire
-/.pytest_cache
+**/.pytest_cache
+**/*.ipynb
+**/ingestion.py
+**/pdfs_to_text.py
